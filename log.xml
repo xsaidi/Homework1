@@ -1,0 +1,1 @@
+<log><action user="user">ls</action><action user="user">cd folder_inside</action><action user="user">ls</action></log>

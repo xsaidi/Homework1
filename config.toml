@@ -1,0 +1,10 @@
+[user]
+name = "user"
+
+[system]
+hostname = "emulator"
+
+[paths]
+fs_archive = "virtual_fs.tar"
+log_file = "log.xml"
+startup_script = "start.sh"
